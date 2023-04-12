@@ -1,6 +1,5 @@
 import os
 import pytest
-from action_tests import ActionTests
 
 
 @pytest.mark.usefixtures("setup")
